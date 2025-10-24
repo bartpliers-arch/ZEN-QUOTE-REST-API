@@ -5,18 +5,13 @@
         "q": "The purpose of life is the life of purpose."
     },
     {
-        "a": "Robin Sharma",
-        "id_q": 2,
-        "q": "The purpose of life is the life of purpose."
-    },
-    {
         "a": "Mark Twain",
-        "id_q": 3,
+        "id_q": 2,
         "q": "Kindness is a language which the deaf can hear and the blind can see."
     },
     {
         "a": "Emily Dickinson",
-        "id_q": 4,
+        "id_q": 3,
         "q": "Forever is composed of now's."
     }
 ]
