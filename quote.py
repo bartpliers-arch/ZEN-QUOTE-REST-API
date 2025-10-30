@@ -2,7 +2,7 @@ from dataclasses import dataclass
 import requests
 
 counter = 0
-
+#dataclass 3 parametr
 @dataclass
 class Quote:
     id_q: int
